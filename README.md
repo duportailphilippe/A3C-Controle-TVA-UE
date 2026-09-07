@@ -4,6 +4,10 @@
 
 **Vérifiez. Identifiez. Documentez.**
 
+[🔐 Politique de confidentialité](./PRIVACY.md)  
+[⚖️ Conditions d’utilisation](./TERMS.md)  
+[🛡️ Signaler une vulnérabilité](./SECURITY.md)
+
 **Contrôle TVA UE — VIES** est une extension Google Chrome développée par **A3C Expert Comptable à Dunkerque** pour faciliter l'identification, le contrôle et la documentation des partenaires économiques français et européens.
 
 L'extension s'appuie notamment sur le système européen **VIES** pour contrôler les numéros de TVA intracommunautaire et complète progressivement cette vérification par différentes sources publiques françaises et européennes.
