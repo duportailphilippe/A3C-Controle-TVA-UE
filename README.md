@@ -1,5 +1,5 @@
 # Contrôle TVA UE — VIES
-
+[![Téléchargements](https://img.shields.io/github/downloads/duportailphilippe/A3C-Controle-TVA-UE/total?label=T%C3%A9l%C3%A9chargements&style=flat-square)](https://github.com/duportailphilippe/A3C-Controle-TVA-UE/releases/latest)
 ### Extension Google Chrome développée par A3C
 
 **Vérifiez. Identifiez. Documentez.**
