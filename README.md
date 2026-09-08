@@ -27,6 +27,29 @@ Le fichier destiné à l'installation porte toujours le nom :
 `Extension-Chrome-A3C.zip`
 
 ---
+## 🎬 Tutoriel vidéo
+
+<p align="center">
+  <a href="https://youtu.be/W532Kw82lFw">
+    <img
+     src="78dce358-8b3d-41b0-a6ad-0a962229db8f.png"
+      alt="Tutoriel vidéo A3C — Contrôle TVA UE : installation, paramétrage et utilisation"
+      width="100%">
+  </a>
+</p>
+
+<p align="center">
+  <strong>Installation • Paramétrage • Utilisation</strong><br>
+  Découvrez en une seule vidéo comment installer, paramétrer et utiliser l’extension A3C — Contrôle TVA UE.
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/W532Kw82lFw"><strong>Voir le tutoriel complet sur YouTube</strong></a>
+</p>
+
+---
+
+
 
 ## 🎯 À quoi sert l'extension ?
 
