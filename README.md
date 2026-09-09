@@ -30,7 +30,7 @@ Le fichier destiné à l'installation porte toujours le nom :
 ## 🎬 Tutoriel vidéo
 
 <p align="center">
-  <a href="https://youtu.be/W532Kw82lFw">
+  <a href="https://youtu.be/zW50oGIA63g">
     <img
      src="78dce358-8b3d-41b0-a6ad-0a962229db8f.png"
       alt="Tutoriel vidéo A3C — Contrôle TVA UE : installation, paramétrage et utilisation"
